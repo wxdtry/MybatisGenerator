@@ -1,0 +1,5 @@
+# MybatisGenerator
+Mybatis逆向工程生成程序
+用时只需修改generatorConfig.xml里的数据库连接信息，生成的po类和mapper的包名以及数据库的表名
+
+运行src下Generator.java 的主方法即可生成代码
